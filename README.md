@@ -4,6 +4,6 @@ The aim of this project is to create an application that can track incomes and s
 
 <br>
 <p align="center">
-  <img src="https://github.com/thota-sasanth/Expense-Tracker-App/blob/main/expensetracker.png" width="680" height="380">
+  <img src="https://github.com/thota-sasanth/Expense-Tracker-App/blob/main/expensetracker.png" width="680" height="680">
 </p>
 <br>
